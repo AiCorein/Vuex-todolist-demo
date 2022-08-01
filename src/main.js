@@ -1,4 +1,4 @@
-import { createApp, devtools } from "vue";
+import { createApp } from "vue";
 import Antd from "ant-design-vue";
 import App from "./App";
 import store from "./store";
